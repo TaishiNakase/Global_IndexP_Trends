@@ -26,14 +26,11 @@ trend_method <- "seasonal_mannkendall_PW"
 ncores <- 4
 
 # set the country/territory 
-region <- "Togo"
+region <- #ADD NAME
 
 # load the raster for the region of interest
 FILE_PATH <- #INCLUDE FILE PATH
 indexP_raster <- raster::brick()
-
-indexP_raster <- raster::brick(file.path("indexP", "V2_indexP_denv_aegypti_maps", region, paste0(region, "_indexP_monthly_mean_rasters.tif")))
-
 
 ################################################################################
 # HELPER FUNCTIONS
