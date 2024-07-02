@@ -1,4 +1,4 @@
-# A retrospective analysis of climate-based dengue virus transmission suitability and population growth over the last four decades
+# Population at risk of dengue virus transmission has increased due to coupled climate factors and population growth
 
 This study uses estimates of dengue transmission suitability based on historical temperature and humidity data to examined how shifts in climate and human population growth have contributed to the change in the geographical distribution and size of the global population living in areas with high climate suitability from 1979 to 2022.
 
